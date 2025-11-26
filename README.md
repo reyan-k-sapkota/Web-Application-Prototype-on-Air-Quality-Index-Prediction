@@ -11,4 +11,4 @@ Air pollution has become a critical issue in Kathmandu Valley, significantly imp
 Paper titled "Web Application Prototype on Air Quality Index Prediction, Monitoring, and Information Dissemination System: Machine Learning and Python-Streamlit-based Application Tailored for Kathmandu Metropolitan City". Link: https://www.nepjol.info/index.php/jes/article/view/80600 
 
 ## TEAM MATES
-Narayan Adhikari, Chiranjivee Subedi, Manoj Subedi, Riya Jha.
+Narayan Adhikari, Chiranjivee Subedi, Riya Jha, and Manoj Subedi.
